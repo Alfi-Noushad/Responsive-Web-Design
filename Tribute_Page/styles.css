@@ -1,1 +1,11 @@
-
+img {
+  display: block;
+  max-height: 100%;
+  max-width: 100%;
+  margin: centre;
+  height: auto;
+  text-align: center;
+}
+h1, h2 {
+  text-align: center;
+}
